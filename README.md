@@ -39,14 +39,6 @@
 
 ---
 
-### 🧭 What's Next?
-- 🧼 Clean and wrangle messy real-world datasets
-- 🌎 Work on geospatial and time-series data
-- 🗣 Learn to explain insights like a storyteller
-- 📈 Dive into deep learning & NLP in future
-
----
-
 ### 📬 Connect With Me
 <p>
   <a href="https://www.linkedin.com/in/codewithnaif" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
