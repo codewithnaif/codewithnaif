@@ -1,18 +1,12 @@
 <h1 align="center">Hi 👋, I'm Naif Khan</h1>
 <h3 align="center">A Passionate Data Science Learner from Lucknow, India</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naifkhan&label=Profile%20views&color=0e75b6&style=flat" alt="naifkhan" />
-</p>
-
 ---
 
 ### 🧠 About Me
 - 🔭 I’m currently diving deep into **Data Science and Machine Learning**
 - 📘 Currently learning: **Data Storytelling, Python for Data Science, and Machine Learning algorithms**
 - 🏡 Based in **Lucknow, India**
-- 👨‍👩‍👧‍👦 I’m also a health-conscious family dietician at home!
-- 🚀 Dream: To become a **Data Scientist** with storytelling superpowers
 - ✨ Exploring how data can drive decisions and tell meaningful stories
 
 ---
